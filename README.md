@@ -1,16 +1,10 @@
-# flutter_dictionary_app
+#Simple Dictionary App 
+API USED : http://api.dictionaryapi.dev
 
-A new Flutter project.
+Library USED : http
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-11-26 at 12 25 15](https://github.com/bimalkaf/Flutter_Dictionary_App/assets/60041910/60db0b3a-4666-4c57-a414-0d70a77a0323)
